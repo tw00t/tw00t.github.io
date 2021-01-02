@@ -29,7 +29,7 @@ twitter:
 
 social:
   name: tw00t                 # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/tw00t      # change to your twitter homepage
@@ -38,13 +38,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+#google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: '/'
+baseurl: '/tw00t.github.io'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
